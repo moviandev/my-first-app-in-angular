@@ -1,5 +1,9 @@
 import { Component, OnInit } from '@angular/core';
 
+/*
+  Each component should have your own selector
+*/
+
 @Component({
   selector: 'myFirst',
   templateUrl: './my-first-component.component.html',
